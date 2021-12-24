@@ -2,7 +2,7 @@
     "name": "Heroku SSH",
     "description": "SSH into Heroku using wstunnel.",
     "repository": "https://github.com/theoddcompanyceo/railway.git",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/vital987/vubuntu/master/assets/icons/64x64.png",
     "keywords": ["docker","ubuntu", "vscode", "novnc", "firefox", "brave", "fluxbox", "linux", "remote", "ssh", "vnc"]
     "stack": "container",
     "env": {
