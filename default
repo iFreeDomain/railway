@@ -94,7 +94,7 @@ upstream websocket {
 }
 
 server {
-    listen       9000;
+    listen       8080;
     server_name  localhost;
 
 #    access_log  /var/log/nginx/websocket.access.log  main;
